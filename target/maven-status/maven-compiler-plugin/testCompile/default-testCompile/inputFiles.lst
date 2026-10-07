@@ -1,0 +1,9 @@
+/home/ec2-user/ecommerce-order-mgmt/src/test/java/com/ecommerce/util/PriceFormatterTest.java
+/home/ec2-user/ecommerce-order-mgmt/src/test/java/com/ecommerce/exception/SqlErrorTranslatorTest.java
+/home/ec2-user/ecommerce-order-mgmt/src/test/java/com/ecommerce/service/OrderServiceTest.java
+/home/ec2-user/ecommerce-order-mgmt/src/test/java/com/ecommerce/service/CartServiceTest.java
+/home/ec2-user/ecommerce-order-mgmt/src/test/java/com/ecommerce/util/WarehouseRegionRouterTest.java
+/home/ec2-user/ecommerce-order-mgmt/src/test/java/com/ecommerce/service/DiscountServiceTest.java
+/home/ec2-user/ecommerce-order-mgmt/src/test/java/com/ecommerce/service/ReviewServiceTest.java
+/home/ec2-user/ecommerce-order-mgmt/src/test/java/com/ecommerce/service/PaymentServiceTest.java
+/home/ec2-user/ecommerce-order-mgmt/src/test/java/com/ecommerce/service/InventoryServiceTest.java

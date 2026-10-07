@@ -1,0 +1,9 @@
+com/ecommerce/service/PaymentServiceTest.class
+com/ecommerce/service/CartServiceTest.class
+com/ecommerce/service/DiscountServiceTest.class
+com/ecommerce/service/InventoryServiceTest.class
+com/ecommerce/util/WarehouseRegionRouterTest.class
+com/ecommerce/service/OrderServiceTest.class
+com/ecommerce/util/PriceFormatterTest.class
+com/ecommerce/service/ReviewServiceTest.class
+com/ecommerce/exception/SqlErrorTranslatorTest.class
